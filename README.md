@@ -63,6 +63,6 @@ Sei que ainda há muito para aprimorar, como feedbacks visuais mais elaborados, 
 3. Inicie o Apache e o MySQL pelo painel do seu servidor local.  
 4. No navegador, acesse:  http://localhost/testeTecnicoPHP/codeigniter4-framework-d021b04/public/
 
-Pronto! O sistema estará rodando com todas as funcionalidades.
+Pronto! O sistema estará rodando com todas as funcionalidades. :)
 
 ---
